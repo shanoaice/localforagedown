@@ -1,6 +1,6 @@
 # localforagedown
 
-[![NPM version](https://badgen.net/npm/v/localforagedown)](https://npmjs.com/package/localforagedown) [![NPM downloads](https://badgen.net/npm/dm/localforagedown)](https://npmjs.com/package/localforagedown) [![CircleCI](https://badgen.net/circleci/github/KsRyY/localforagedown/master)](https://circleci.com/gh/KsRyY/localforagedown/tree/master) [![codecov](https://codecov.io/gh/KsRyY/localforagedown/branch/master/graph/badge.svg)](https://codecov.io/gh/KsRyY/localforagedown)
+[![NPM version](https://badgen.net/npm/v/localforagedown)](https://npmjs.com/package/localforagedown) [![NPM downloads](https://badgen.net/npm/dm/localforagedown)](https://npmjs.com/package/localforagedown)
 
 ## Install
 
