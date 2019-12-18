@@ -47,7 +47,8 @@
         }
       ],
       "prefer-rest-params": 0,
-      "eqeqeq": 0
+      "eqeqeq": 0,
+      "import/no-unassigned-import": 0
     }
   },
   "husky": {
