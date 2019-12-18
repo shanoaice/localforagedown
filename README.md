@@ -1,29 +1,19 @@
 # localforagedown
 
-[![NPM version](https://badgen.net/npm/v/localforagedown)](https://npmjs.com/package/localforagedown) [![NPM downloads](https://badgen.net/npm/dm/localforagedown)](https://npmjs.com/package/localforagedown)
+[![NPM version](https://badgen.net/npm/v/localforagedown)](https://npmjs.com/package/localforagedown) [![NPM downloads](https://badgen.net/npm/dm/localforagedown)](https://npmjs.com/package/localforagedown) ![level badge](https://leveljs.org/img/badge.svg)  
+This is an abstract-leveldown compliant store that uses [localforage](https://localforage.github.io/localForage) as it backend.
 
 ## Install
 
 ```bash
 yarn add localforagedown
+# or npm
+npm install localforagedown
 ```
 
-## Usage
+## API
 
-```js
-const localforagedown = require('localforagedown')
-
-localforagedown()
-//=> foo
-```
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+Please refrence [LevelDOWN](https://github.com/Level/leveldown) for API. If you want a easier experience, use it with [LevelUP](https://github.com/Level/levelup).
 
 ## Author
 
