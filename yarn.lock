@@ -3131,7 +3131,12 @@ level-concat-iterator@~2.0.0:
   resolved "https://registry.npm.taobao.org/level-concat-iterator/download/level-concat-iterator-2.0.1.tgz#1d1009cf108340252cb38c51f9727311193e6263"
   integrity sha1-HRAJzxCDQCUss4xR+XJzERk+YmM=
 
-level-supports@^1.0.1, level-supports@~1.0.0:
+level-supports@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/level-supports/-/level-supports-2.0.0.tgz#b0b9f63f30c4175fb2612217144f03f3b77580d9"
+  integrity sha512-8UJgzo1pvWP1wq80ZlkL19fPeK7tlyy0sBY90+2pj0x/kvzHCoLDWyuFJJMrsTn33oc7hbMkS3SkjCxMRPHWaw==
+
+level-supports@~1.0.0:
   version "1.0.1"
   resolved "https://registry.npm.taobao.org/level-supports/download/level-supports-1.0.1.tgz#2f530a596834c7301622521988e2c36bb77d122d"
   integrity sha1-L1MKWWg0xzAWIlIZiOLDa7d9Ei0=
