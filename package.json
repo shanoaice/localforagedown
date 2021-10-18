@@ -30,7 +30,7 @@
     "eslint-plugin-unicorn": "15.0.0",
     "fake-indexeddb": "3.0.0",
     "husky": "4.3.7",
-    "lint-staged": "9.5.0",
+    "lint-staged": "11.2.3",
     "prettier": "1.19.1",
     "xo": "0.25.3"
   },
