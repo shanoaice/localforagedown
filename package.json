@@ -16,7 +16,7 @@
   "author": "KsRyY<andy200511@126.com>",
   "license": "MIT",
   "dependencies": {
-    "abstract-leveldown": "^6.2.2",
+    "abstract-leveldown": "^7.0.0",
     "level-supports": "^1.0.1",
     "localforage": "^1.7.3"
   },
