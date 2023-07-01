@@ -2034,13 +2034,12 @@ extglob@^2.0.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-fake-indexeddb@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/fake-indexeddb/-/fake-indexeddb-3.0.0.tgz#1bd0ffce41b0f433409df301d334d8fd7d77da27"
-  integrity sha512-VrnV9dJWlVWvd8hp9MMR+JS4RLC4ZmToSkuCg91ZwpYE5mSODb3n5VEaV62Hf3AusnbrPfwQhukU+rGZm5W8PQ==
+fake-indexeddb@3.1.8:
+  version "3.1.8"
+  resolved "https://registry.yarnpkg.com/fake-indexeddb/-/fake-indexeddb-3.1.8.tgz#229e3cff6fa7355aebb3f147b908d2efa4605d70"
+  integrity sha512-7umIgcdnDfNcjw0ZaoD6yR2BflngKmPsyzZC+sV2fdttwz5bH6B6CCaNzzD+MURfRg8pvr/aL0trfNx65FLiDg==
   dependencies:
     realistic-structured-clone "^2.0.1"
-    setimmediate "^1.0.5"
 
 fast-deep-equal@^2.0.1:
   version "2.0.1"
@@ -4625,11 +4624,6 @@ set-value@^2.0.0, set-value@^2.0.1:
     is-extendable "^0.1.1"
     is-plain-object "^2.0.3"
     split-string "^3.0.1"
-
-setimmediate@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.npm.taobao.org/setimmediate/download/setimmediate-1.0.5.tgz#290cbb232e306942d7d7ea9b83732ab7856f8285"
-  integrity sha1-KQy7Iy4waULX1+qbg3Mqt4VvgoU=
 
 shebang-command@^1.2.0:
   version "1.2.0"
